@@ -2,6 +2,10 @@
 
 _An AI-powered tool for automatic data cleaning suggestions._
 
+<img width="716" alt="Screen Shot 2023-09-28 at 4 47 11 PM" src="https://github.com/AceCanacan/AutoClean-by-eys/assets/110709199/5611f250-6c4e-479a-94e4-feb36eaa0bc7">
+<img width="712" alt="Screen Shot 2023-09-28 at 4 47 15 PM" src="https://github.com/AceCanacan/AutoClean-by-eys/assets/110709199/c45ea7fb-b3a2-4224-b56d-04791dce8d51">
+
+
 ## 📌 Table of Contents
 - [📖 Project Description](#-project-description)
 - [🔧 Installation](#-installation)
